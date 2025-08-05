@@ -3,12 +3,13 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet READ
 
 <img width="954" height="600" alt="kodluyoruzrepo" src="https://github.com/user-attachments/assets/ccc31124-4f61-42eb-8981-f779977bdffe" />
 
-#Installation
+# Installation
+
 Öncelikle projeyi clonelayın.
 
 git clone https://github.com/beyzaozk/kodluyoruzilkrepo.git
 
-#Usage
+# Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
@@ -16,8 +17,8 @@ Linux için:
 cd kodluyoruzilkrepo
 code .
 
-#Contributing
+# Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-#License
+# License
 MIT
