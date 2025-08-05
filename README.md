@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-
+<img width="954" height="600" alt="kodluyoruzrepo" src="https://github.com/user-attachments/assets/ccc31124-4f61-42eb-8981-f779977bdffe" />
 
 Installation
 Öncelikle projeyi clonelayın.
