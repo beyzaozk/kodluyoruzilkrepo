@@ -1,0 +1,15 @@
+D:\vscode\kodluyoruzilkrepo\csharp_101\operatorler\bin\Debug\net9.0\operatorler.exe
+D:\vscode\kodluyoruzilkrepo\csharp_101\operatorler\bin\Debug\net9.0\operatorler.deps.json
+D:\vscode\kodluyoruzilkrepo\csharp_101\operatorler\bin\Debug\net9.0\operatorler.runtimeconfig.json
+D:\vscode\kodluyoruzilkrepo\csharp_101\operatorler\bin\Debug\net9.0\operatorler.dll
+D:\vscode\kodluyoruzilkrepo\csharp_101\operatorler\bin\Debug\net9.0\operatorler.pdb
+D:\vscode\kodluyoruzilkrepo\csharp_101\operatorler\obj\Debug\net9.0\operatorler.GeneratedMSBuildEditorConfig.editorconfig
+D:\vscode\kodluyoruzilkrepo\csharp_101\operatorler\obj\Debug\net9.0\operatorler.AssemblyInfoInputs.cache
+D:\vscode\kodluyoruzilkrepo\csharp_101\operatorler\obj\Debug\net9.0\operatorler.AssemblyInfo.cs
+D:\vscode\kodluyoruzilkrepo\csharp_101\operatorler\obj\Debug\net9.0\operatorler.csproj.CoreCompileInputs.cache
+D:\vscode\kodluyoruzilkrepo\csharp_101\operatorler\obj\Debug\net9.0\operatorler.sourcelink.json
+D:\vscode\kodluyoruzilkrepo\csharp_101\operatorler\obj\Debug\net9.0\operatorler.dll
+D:\vscode\kodluyoruzilkrepo\csharp_101\operatorler\obj\Debug\net9.0\refint\operatorler.dll
+D:\vscode\kodluyoruzilkrepo\csharp_101\operatorler\obj\Debug\net9.0\operatorler.pdb
+D:\vscode\kodluyoruzilkrepo\csharp_101\operatorler\obj\Debug\net9.0\operatorler.genruntimeconfig.cache
+D:\vscode\kodluyoruzilkrepo\csharp_101\operatorler\obj\Debug\net9.0\ref\operatorler.dll
