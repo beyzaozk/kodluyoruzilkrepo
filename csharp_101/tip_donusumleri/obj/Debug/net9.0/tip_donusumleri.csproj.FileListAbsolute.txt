@@ -1,0 +1,15 @@
+D:\vscode\kodluyoruzilkrepo\csharp_101\tip_donusumleri\bin\Debug\net9.0\tip_donusumleri.exe
+D:\vscode\kodluyoruzilkrepo\csharp_101\tip_donusumleri\bin\Debug\net9.0\tip_donusumleri.deps.json
+D:\vscode\kodluyoruzilkrepo\csharp_101\tip_donusumleri\bin\Debug\net9.0\tip_donusumleri.runtimeconfig.json
+D:\vscode\kodluyoruzilkrepo\csharp_101\tip_donusumleri\bin\Debug\net9.0\tip_donusumleri.dll
+D:\vscode\kodluyoruzilkrepo\csharp_101\tip_donusumleri\bin\Debug\net9.0\tip_donusumleri.pdb
+D:\vscode\kodluyoruzilkrepo\csharp_101\tip_donusumleri\obj\Debug\net9.0\tip_donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+D:\vscode\kodluyoruzilkrepo\csharp_101\tip_donusumleri\obj\Debug\net9.0\tip_donusumleri.AssemblyInfoInputs.cache
+D:\vscode\kodluyoruzilkrepo\csharp_101\tip_donusumleri\obj\Debug\net9.0\tip_donusumleri.AssemblyInfo.cs
+D:\vscode\kodluyoruzilkrepo\csharp_101\tip_donusumleri\obj\Debug\net9.0\tip_donusumleri.csproj.CoreCompileInputs.cache
+D:\vscode\kodluyoruzilkrepo\csharp_101\tip_donusumleri\obj\Debug\net9.0\tip_donusumleri.sourcelink.json
+D:\vscode\kodluyoruzilkrepo\csharp_101\tip_donusumleri\obj\Debug\net9.0\tip_donusumleri.dll
+D:\vscode\kodluyoruzilkrepo\csharp_101\tip_donusumleri\obj\Debug\net9.0\refint\tip_donusumleri.dll
+D:\vscode\kodluyoruzilkrepo\csharp_101\tip_donusumleri\obj\Debug\net9.0\tip_donusumleri.pdb
+D:\vscode\kodluyoruzilkrepo\csharp_101\tip_donusumleri\obj\Debug\net9.0\tip_donusumleri.genruntimeconfig.cache
+D:\vscode\kodluyoruzilkrepo\csharp_101\tip_donusumleri\obj\Debug\net9.0\ref\tip_donusumleri.dll
