@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Üye Kayıt Formu</h1>
+        <form name="kayit" action="kayit.aspx" method="get">
+            <table>
+                <tr>
+                    <td> Ad Soyad:</td>
+                    <td><input type="text" name="adsoyad" id="idadsoyad" size="20" maxlength="30" required></td>
+                </tr>
+                <tr>
+                    <td>Email: </td>
+                    <td><input type="email" name="email" id="email" required></td>
+                </tr>
+                <tr>
+                    <td>Web Sitesi: </td>
+                    <td><input type="url" name="adres" id="adres"></td>
+                </tr>
+                <tr>
+                    <td>Yaşınız: </td>
+                    <td><input type="number" name="yas" id="yas" required></td>
+                </tr>
+                <tr>
+                    <td></td><td><input type="submit" value="Tamam"><input type="reset" value="Temizle"></td>
+                </tr>
+            </table>
+    </form>
+</body>
+</html>
