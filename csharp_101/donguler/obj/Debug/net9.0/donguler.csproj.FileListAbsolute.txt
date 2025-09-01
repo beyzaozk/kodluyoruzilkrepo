@@ -1,0 +1,15 @@
+D:\vscode\kodluyoruzilkrepo\csharp_101\donguler\bin\Debug\net9.0\donguler.exe
+D:\vscode\kodluyoruzilkrepo\csharp_101\donguler\bin\Debug\net9.0\donguler.deps.json
+D:\vscode\kodluyoruzilkrepo\csharp_101\donguler\bin\Debug\net9.0\donguler.runtimeconfig.json
+D:\vscode\kodluyoruzilkrepo\csharp_101\donguler\bin\Debug\net9.0\donguler.dll
+D:\vscode\kodluyoruzilkrepo\csharp_101\donguler\bin\Debug\net9.0\donguler.pdb
+D:\vscode\kodluyoruzilkrepo\csharp_101\donguler\obj\Debug\net9.0\donguler.GeneratedMSBuildEditorConfig.editorconfig
+D:\vscode\kodluyoruzilkrepo\csharp_101\donguler\obj\Debug\net9.0\donguler.AssemblyInfoInputs.cache
+D:\vscode\kodluyoruzilkrepo\csharp_101\donguler\obj\Debug\net9.0\donguler.AssemblyInfo.cs
+D:\vscode\kodluyoruzilkrepo\csharp_101\donguler\obj\Debug\net9.0\donguler.csproj.CoreCompileInputs.cache
+D:\vscode\kodluyoruzilkrepo\csharp_101\donguler\obj\Debug\net9.0\donguler.sourcelink.json
+D:\vscode\kodluyoruzilkrepo\csharp_101\donguler\obj\Debug\net9.0\donguler.dll
+D:\vscode\kodluyoruzilkrepo\csharp_101\donguler\obj\Debug\net9.0\refint\donguler.dll
+D:\vscode\kodluyoruzilkrepo\csharp_101\donguler\obj\Debug\net9.0\donguler.pdb
+D:\vscode\kodluyoruzilkrepo\csharp_101\donguler\obj\Debug\net9.0\donguler.genruntimeconfig.cache
+D:\vscode\kodluyoruzilkrepo\csharp_101\donguler\obj\Debug\net9.0\ref\donguler.dll
