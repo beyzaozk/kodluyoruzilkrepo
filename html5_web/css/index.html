@@ -6,13 +6,24 @@
     <title>Document</title>
     <link rel="stylesheet" href="stil.css">
     <style>
-        h1{
-            color: aqua;
-            font-size: 30px;
+        *{
+            color: red;
         }
-        p{
-            color: brown; /*inline öncelikli oluyor bu yüzden rengi (kahverengi olmadı)değişmedi.*/
-            font-size: 15px;
+
+        #ilk{
+            color: aqua;
+        }
+
+        #iki{
+            color: blueviolet;
+        }
+
+        .mavi{
+            color: blue; /*class kullanımı*/
+        }
+
+        .yesil{
+            color: green;
         }
     </style>
 </head>
@@ -21,5 +32,10 @@
     <p style="color: bisque;">Beyza Özkan</p>
     <h1>Sayfa İçi CSS(internal)</h1>
     <h2>External</h2>
+
+    <h1 class="mavi">Başlık1</h1>
+    <h2 class="yesil">Başlık2</h2>
+    <p id="ilk">Merhaba.....</p>
+    <p id="iki">Nasılsınız?</p>
 </body>
 </html>
