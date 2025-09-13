@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div{
+            border-color: indianred;
+            border-style: solid;
+        }
+
+        #buyuk{
+            width: 200px;
+            height: 100px;
+            background-color: khaki;
+            position: fixed;
+            right: 30px;
+            bottom: 10px;
+        }
+
+        #kucuk{
+            width: 100px;
+            height: 50px;
+            background-color: lawngreen;
+            position: relative;
+            left: 30px;
+            top: -30px;
+            z-index: -1;
+        }
+
+        #kucuk1{
+            width: 100px;
+            height: 50px;
+            background-color: lawngreen;
+            position: absolute;
+            left: 10px;
+            top: 10px;
+        }
+
+        #buyuk1{
+            width: 200px;
+            height: 100px;
+            background-color: khaki;
+            z-index: 1; /*kutunun önde ve arkada gözükmesini ayarlamayı sağlar.*/
+        }
+    </style>
+</head>
+<body>
+    <div id="buyuk">
+        <div id="kucuk1">
+
+    </div>
+    </div>
+    <div id="buyuk1">
+
+    </div>
+    <div id="kucuk">
+
+    </div>
+    
+</body>
+</html>
